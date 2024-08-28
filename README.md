@@ -1,9 +1,9 @@
 # to-do-list-in-Python <br>
-The To-Do List Application is a simple yet functional desktop application designed to help users manage their tasks efficiently. Built using Python's Tkinter library, this application allows users to add, update, delete, view, and mark tasks as completed. The user interface is clean and intuitive, making it easy to use for anyone, from students managing their assignments to professionals tracking their daily work tasks.
-<br>
-Features
-Add Tasks: Users can easily add new tasks to their to-do list by entering the task in the provided text box and clicking the "Add Task" button. Each task is stored with a "not completed" status initially.
-<br>
+The To-Do List Application is a simple yet functional desktop application designed to help users manage their tasks efficiently. Built using Python's Tkinter library, this application allows users to add, update, delete, view, and mark tasks as completed. The user interface is clean and intuitive, making it easy to use for anyone, from students managing their assignments to professionals tracking their daily work tasks.<br>
+
+# Features
+Add Tasks: Users can easily add new tasks to their to-do list by entering the task in the provided text box and clicking the "Add Task" button. Each task is stored with a "not completed" status initially.<br>
+
 Update Tasks: The application provides an option to update existing tasks. Users can select a task from the list, click "Update Task," and enter a new description for the task.
 <br>
 Delete Tasks: Users can remove tasks from their list by selecting the task and clicking the "Delete Task" button. This allows for easy management and removal of tasks that are no longer relevant.
