@@ -24,8 +24,4 @@ Listbox Widget: Displays the list of tasks.<br>
 Button Widgets: Multiple buttons for adding, updating, deleting, viewing, and marking tasks as completed.<br>
 
 ![image](https://github.com/user-attachments/assets/a2ecca35-a457-43e9-90bb-5589e53aabb9)
-<br>
-![image](https://github.com/user-attachments/assets/e15dc51d-647f-4db1-9634-780b3ee6feac)
-<br>
-![image](https://github.com/user-attachments/assets/27bbd6fc-b9bf-48da-8a2b-78caca16c061)
 
