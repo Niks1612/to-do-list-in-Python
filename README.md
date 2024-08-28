@@ -9,7 +9,7 @@ Update Tasks: The application provides an option to update existing tasks. Users
 Delete Tasks: Users can remove tasks from their list by selecting the task and clicking the "Delete Task" button. This allows for easy management and removal of tasks that are no longer relevant.<br>
 
 Mark Tasks as Completed: To keep track of progress, users can mark tasks as completed. The application visually distinguishes completed tasks by appending "(Completed)" to the task's description in the list.<br>
-<br>
+
 View Tasks: Users can refresh the task list to ensure it displays the most current tasks, including any updates or completions.<br>
 
 # Technical Details
@@ -18,8 +18,11 @@ Library: Tkinter<br>
 
 # GUI Components:
 Entry Widget: Used for entering the task description.<br>
+
 Listbox Widget: Displays the list of tasks.<br>
+
 Button Widgets: Multiple buttons for adding, updating, deleting, viewing, and marking tasks as completed.<br>
+
 ![image](https://github.com/user-attachments/assets/a2ecca35-a457-43e9-90bb-5589e53aabb9)
 <br>
 ![image](https://github.com/user-attachments/assets/e15dc51d-647f-4db1-9634-780b3ee6feac)
